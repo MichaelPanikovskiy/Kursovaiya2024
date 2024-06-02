@@ -4,7 +4,7 @@ Otcenka.py
 
 cleaned_file.csv - очищенный датасет
 
-kursovaia_2024.rar - архив курсовай
+kursovaia_2024.rar - архив курсовой
 
 swear.csv - исходный датасет
 
